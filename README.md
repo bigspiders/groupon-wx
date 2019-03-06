@@ -1,9 +1,9 @@
 # groupon-wx
 团购 商城 微服务 Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
-详细注释请参考：https://github.com/bigspiders/mall
+
 #mall
 ********************************************************* 
-* 请记得点star，谢谢
+* 请记得点star，谢谢   详细文档请参考：https://github.com/bigspiders/mall
 *********************************************************
 程序将加入：商场 购物车 秒杀 Kafka redis lucene等等，一起学习新技术
 
